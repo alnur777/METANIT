@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() async {
-  var dir = Directory(r"C:\Users\Sagadat\Documents\AIU-Cross-Plat\Dart-file");
+  var dir = Directory(r""C:\Users\alnur\Downloads\file manage.dart"");
   String text = "Hello world";
   File file = File("hello.txt");
   await file.create();
